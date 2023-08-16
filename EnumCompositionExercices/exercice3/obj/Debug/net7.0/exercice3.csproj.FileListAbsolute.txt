@@ -1,0 +1,15 @@
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\bin\Debug\net7.0\exercice3.exe
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\bin\Debug\net7.0\exercice3.deps.json
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\bin\Debug\net7.0\exercice3.runtimeconfig.json
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\bin\Debug\net7.0\exercice3.dll
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\bin\Debug\net7.0\exercice3.pdb
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\exercice3.csproj.AssemblyReference.cache
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\exercice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\exercice3.AssemblyInfoInputs.cache
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\exercice3.AssemblyInfo.cs
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\exercice3.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\exercice3.dll
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\refint\exercice3.dll
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\exercice3.pdb
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\exercice3.genruntimeconfig.cache
+C:\Users\Luiz Fernando\Desktop\C.Sharp\exercices\exercice3\obj\Debug\net7.0\ref\exercice3.dll
