@@ -1,0 +1,15 @@
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\bin\Debug\net7.0\exercice2.exe
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\bin\Debug\net7.0\exercice2.deps.json
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\bin\Debug\net7.0\exercice2.runtimeconfig.json
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\bin\Debug\net7.0\exercice2.dll
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\bin\Debug\net7.0\exercice2.pdb
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\exercice2.csproj.AssemblyReference.cache
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\exercice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\exercice2.AssemblyInfoInputs.cache
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\exercice2.AssemblyInfo.cs
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\exercice2.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\exercice2.dll
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\refint\exercice2.dll
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\exercice2.pdb
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\exercice2.genruntimeconfig.cache
+C:\Users\Luiz Fernando\Desktop\C.Sharp\CsharpExercices\InterfaceExercices\exercice2\obj\Debug\net7.0\ref\exercice2.dll
